@@ -20,3 +20,6 @@ hand-gesture-recognition/
 ├── realtime.py
 ├── requirements.txt
 └── train_model.py
+## Demo Video
+[![Watch Demo Video](https://img.shields.io/badge/Google%20Drive-View%20Demo-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1ebikI9wIW-obFz15hp871IryU8mfHRdJ/view?usp=sharing)
+[Click here to watch the Real-Time Hand Gesture Recognition Demo](https://drive.google.com/file/d/1ebikI9wIW-obFz15hp871IryU8mfHRdJ/view?usp=sharing)
